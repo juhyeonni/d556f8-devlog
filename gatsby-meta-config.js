@@ -1,6 +1,6 @@
 module.exports = {
   title: `d556f8`,
-  description: `devkig`,
+  description: `오늘은 어떤 하루를 보내고 계신가요?`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://d556f8.netlify.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -14,7 +14,7 @@ module.exports = {
     name: `이주현`,
     bio: {
       role: `개발자`,
-      description: ['', '', ''],
+      description: ['생각하는', '표현하는', '수용하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
