@@ -39,6 +39,7 @@
     "typeface-montserrat": "^1.1.13"
   },
   "devDependencies": {
+    "@babel/types": "^7.21.2",
     "gh-pages": "^3.2.3",
     "prettier": "2.2.1"
   },
