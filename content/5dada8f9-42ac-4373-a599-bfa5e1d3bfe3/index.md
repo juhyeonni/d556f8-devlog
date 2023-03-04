@@ -3,7 +3,7 @@ title: 'Class Object'
 date: '2023-03-03 08:47:00'
 author: 'Juhyeon Lee'
 tags: class member method overloading type casting Access Modifier
-categories: 'Java learning pages'
+categories: 'JavaLearningPages'
 ---
 
 # OOP

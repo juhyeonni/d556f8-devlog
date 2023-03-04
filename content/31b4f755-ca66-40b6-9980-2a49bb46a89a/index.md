@@ -3,7 +3,7 @@ title: 'Java Basic'
 date: '2023-03-03 08:51:00'
 author: 'Juhyeon Lee'
 tags: primitive type reference type
-categories: 'Java learning pages'
+categories: 'JavaLearningPages'
 ---
 
 ## 기본형 (Primitive Type)
