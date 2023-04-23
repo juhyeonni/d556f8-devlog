@@ -3,7 +3,7 @@ title: 'サンワダイレクト、サイドテーブルとして使えるデス
 date: '2023-02-12 05:55:00'
 author: 'Juhyeon Lee'
 tags: shopping
-categories: 'JapaneseNews'
+categories: 'Japanese News'
 ---
 
 > 2/8(水) 18:40配信

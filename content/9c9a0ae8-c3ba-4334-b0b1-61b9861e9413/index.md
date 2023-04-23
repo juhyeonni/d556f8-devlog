@@ -1,9 +1,9 @@
 ---
 title: '東北で局地的に強い雪　午前中は積雪の増加に注意'
-date: '2023-02-28 00:07:00'
+date: '2023-02-28 08:28:00'
 author: 'Juhyeon Lee'
 tags: weather
-categories: 'JapaneseNews'
+categories: 'Japanese News'
 ---
 
 > 2/6(月) 9:01配信

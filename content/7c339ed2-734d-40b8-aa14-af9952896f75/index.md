@@ -3,7 +3,7 @@ title: 'SBG、7834億円の赤字　孫社長に代わり”後藤くん”は�
 date: '2023-02-23 03:57:00'
 author: 'Juhyeon Lee'
 tags: business
-categories: 'JapaneseNews'
+categories: 'Japanese News'
 ---
 
 > 2/7(火) 19:35配信

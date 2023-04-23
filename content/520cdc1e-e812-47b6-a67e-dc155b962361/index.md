@@ -3,13 +3,13 @@ title: 'Netflix、海外で「アカウント共有」対策拡大。日本も�
 date: '2023-02-23 16:35:00'
 author: 'Juhyeon Lee'
 tags: entertainment
-categories: 'JapaneseNews'
+categories: 'Japanese News'
 ---
 
 > 2/9(木) 17:13配信
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/461a2275-65e1-4c9d-8a55-222c2f02817c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230306%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230306T045254Z&X-Amz-Expires=3600&X-Amz-Signature=81633be74baa2d4efe4cd5373d7ecc215dcd8205a8a94b0d2a73a610f4301c5d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/461a2275-65e1-4c9d-8a55-222c2f02817c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230422%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230422T130632Z&X-Amz-Expires=3600&X-Amz-Signature=12e563b0d92ec34ee3d2cc7f40a26a4a9f7437056125901d238fe97676e1cb47&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## [👉LINK](https://news.yahoo.co.jp/articles/39c4c576cb86e6dad25e33cd2fbbf3afed0c72ea)

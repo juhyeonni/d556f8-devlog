@@ -1,9 +1,9 @@
 ---
 title: 'Class Object'
-date: '2023-03-03 08:47:00'
+date: '2023-03-06 08:31:00'
 author: 'Juhyeon Lee'
-tags: class member method overloading type casting Access Modifier
-categories: 'JavaLearningPages'
+tags: class member method overloading type casting access modifier scpark
+categories: 'Java Learning'
 ---
 
 # OOP
@@ -164,7 +164,7 @@ long d16 = d8; // 묵시적 형 변환
 ```java
 long d16 = 100;
 
-int d8 = (int) d16; // 암시적 형 변환
+int d8 = (int) d16; // 명시적 형 변환
 ```
 
 
